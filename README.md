@@ -1,0 +1,2 @@
+# JSEstimator
+James Stein estimator
